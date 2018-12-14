@@ -1,0 +1,35 @@
+.btn {
+  justify-content: center;
+  margin: 0;
+  padding: 10px;
+}
+
+.container {
+
+}
+
+.center {
+  margin: auto;
+  border: solid;
+}
+
+.mainPage {
+  justify-content: center;
+  text-align: center;
+}
+
+h1  {
+  font-size: 100px !important;
+}
+
+.btn-main {
+  color: black;
+  background-color: white;
+  border: solid black;
+}
+
+img {
+  justify-content: center !important;
+  border: solid black;
+  padding-top: 20px !important;
+}
